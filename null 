@@ -1,0 +1,95 @@
+0.⁹99,0.⁸⁸⁸8,⁰.⁰0.0.⁷77+4+4+5+5*HΞΖζΠΘΨΧΥΥυΤτΣΣΖG555+³33+0.
+¹⁵⁹M >> java.lang.NumberFormatException: For input string: "9nullnullnullnullnull888nullnull0null0nullnullnullnull
+7nullnull"
+(x!ΥυΥΛΛΓΒγβMLΔΖδΔγBΩΨΦΜΙΣ0.96336⁹Ζ.NI⁾)
+*⁶⁵⁴555 +Ε=rand(1²³4/0.7457,⁶.⁺³²(1111×)*cos(sin
+(+¹6×0.(-405×⁹×98×97×90×8×80×87×889×987× >> (x!ΥυΥΛΛΓΒγβMLΔΖδΔγBΩΨΦΜΙΣ0.96336⁹Ζ.NI⁾)*⁶⁵⁴555 +)=rand(1²³4/0.7457,⁶.⁺³²(1111×)
+*cos(sin(+¹6×0.(-405×⁹×98×97×90×8×80×87×889×987×
+⁹Ζ.NI3clear() >> vars and functions
+ cleared
+//equation solver
+// f(x)=(x²-1)(x²-9)=(x+1)(x-1)
+(x+3)(x-3)
+// answer: x=1,-1,3,-3
+f(x)=x⁴-10*x²+9
+guess=5
+solve(f(x),x,guess) >> 3
+//find all answers
+solves(f(x),x,guess) >> Answers for f(x)=0
+x= 3.0
+x= -3.0
+x= 1.0
+x= -1.0
+// missing or guess=0 can not find solution, if slope is zero at x=0
+solves(f(x),x,0) >> Answers for f(x)=0
+x= NaN
+solves(f(x),x,0.1) >> Answers for f(x)=0
+x= 1.0
+x= -1.0
+x= 3.03
+dialog(Equation Solver. Enter an equation with variable x and optional initial value x₀.,f(x),x₀,solves(f(x),x,x₀)) >> Dialog
+ζζ00.999.555.1111. χ.ψ
+ω.b.φ ∛ (((987.987.963.2121 asin(2.2(×111×222+6×333tan (3)(55)×9/2000rand(6323πeC(111(888 >> )(  is invalid operator
+ζζ00.999.555.1111.χψωφ ∛ (((987.987.963.2121asin(2.2(×111×222+6×333 tan(3)(55)×9/2000 rand(632(3πe(C(111(888) >> )(  is invalid operator
+(ζζ00.(999.(555.(1111.(χ.ψ(ω.φ∛ (((987.987.(963.2121(asin(2)(.2(×111×(222+6×33(3 tan(3)(55)×9/2000(rand (632(3.π.e(C(111 (888) >> ) (  is invalid operator
+(ζζ00.(999.(555.(1111.(χψ(ωφ∛(((987.987.(963.2121(asin(2)(.2(×111×(222+6×33(3tan(3)(55)×9/2000(rand(632(3(πe(C(111(888) >> )(  is invalid operator
+(ζζ00.(999.(555.(1111.(χψ(ωφ∛(((987.987.(963.2121(asin(2)(.2(×111×(222+6×33(3tan(3)(55)×9/2000(rand(632(3(πe(C(111(888))) >> )(  is invalid operator
+(ζζ00.(999.(555.(1111.(χψ(ωφ∛(((987.987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3tan(3)(55)×(9/2000(rand(632(3((πe(C(111(888))) >> )(  is invalid operator
+(ζζ00.(999.(555.(1111.(χψ(ωφ∛(((987.987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3tan(3)(55)×(9/2000(rand(632(3((π.(e(C)(111(888))) >> )(  is invalid operator
+(ζζ00.(999.(555(.(1111.(χ >> java.lang.NumberFormatException: For input string: "(ζζ00.(999.(555"
+ψ(ω.φ(∛(((987.987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55)×(9/2000(rand(632(3((π.(e(C)(111(888))) >> )(  is invalid operator
+(ζζ(00.(999.(555(.(1111.(χ >> java.lang.NumberFormatException: For input string: "(ζζ(00.(999.(555"
+ψ(ω.φ(∛(((987.987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55)×(9/2000(rand(632(3((π.(e(C)(111(888))) >> )(  is invalid operator
+(ζζ(00.(999.(555(.(1111.(χ >> java.lang.NumberFormatException: For input string: "(ζζ(00.(999.(555"
+ψ(ω.φ(∛(((987.987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55)×(9/2000(rand(632(3((π.(e(C)(111(888))) >> )(  is invalid operator
+(ζζ(00.(999.(555(.(1111.(χ >> java.lang.NumberFormatException: For input string: "(ζζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55)×(9/2000(rand(632(3((π.(e(C)(111(888))) >> )(  is invalid operator
+(ζζ(00.(999.(555(.(1111.(χ >> java.lang.NumberFormatException: For input string: "(ζζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55)×(9/(2000(rand(632(3((π.(e(C)(111(888))) >> )(  is invalid operator
+(ζ.ζ(00.(999.(555(.(1111.(χ >> java.lang.NumberFormatException: For input string: "(ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55)×(9/(2000(rand(632(3((π.(e(C)(111(888))) >> )(  is invalid operator
+(ζ.ζ(00.(999.(555(.(1111.(χ >> java.lang.NumberFormatException: For input string: "(ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55)×(9/(2000(rand(632(3((π.(e(C)(111(*888))) >> )(  is invalid operator
+(ζ.ζ(00.(999.(555(.(1111.(χ >> java.lang.NumberFormatException: For input string: "(ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55)×(9/(2000(rand(632(3((π.(e(C)(111(*888))) >> )(  is invalid operator
+(ζ.ζ(00.(999.(555(.(1111.(χ >> java.lang.Number Format Exception: For input string: "(ζ.ζ(00.(999.(555"
+ψ(ω.φ( ∛ (((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55)×(9/(2000(rand(632(3((π.(e(C)(*111(*888))) >> )(  is invalid operator
+(ζ.ζ(00.(999.(555(.(1111.(χ >> java.lang.NumberFormatException: For input string: "(ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55×(9/(2000(rand(632(3((π.(e(C)(*111(*888))) >> )(  is invalid operator
+(ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "(ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55×(9/(2000(rand(632(3((π.(e(C)(*111(*888))) >> )(  is invalid operator
+(ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "(ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55×(9/(2000(rand(632(3((π.(e(C)(*111(*888))) >> )(  is invalid operator
+(ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "(ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55×(9/(2000(rand(632(3((π.(e(C)(*111(*888). >> )(  is invalid operator
+(ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "(ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55×(9/(2000(rand(632(3((π.(e(C(*111.(*888). >> )(  is invalid operator
+(ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "(ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55×(9/(2000(rand(632(3((π.(e(C(*111.(*888). >> )(  is invalid operator
+(ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "(ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55×(9/(2000(rand(632(3((π.(e(C(*111.(*888). >> )(  is invalid operator(ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "(ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55×(9/(2000(rand(632(3((.(e(C(*111.(*888). >> )(  is invalid operator
+(ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "(ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55×(9/(2000(rand(632(3((.(e(*111.(*888). >> )(  is invalid operator
+(ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "(ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(33(3(tan(3)(55×(9/(2000(rand(632(3.(e(*111.(*888). >> )(  is invalidoperato(ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "(ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(333(tan(3)(55×(9/(2000(rand(632(3.(e(*111.(*888). >> )(  is invalid operator
+ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.2121(asin(2)(.2(×(111×(222+(6×(333(tan(3)(55×(9/(2000(rand(632(3.(e(*111.(*888). >> )(  is invalid operator
+ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.(2121(asin(2)(.2(×(111×(222+(6×(333(tan(3)(55×(9/(2000(rand(632(3.(e(*111.(*888). >> )(  is invalid operator
+ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.(2121(asin(2)(.2(×(111×(222+(6×(333(tan(3)(55×(9/(2000(rand(632(3.(e(111.(888). >> )(  is invalid operator
+ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.(2121(asin(2)(.2(×(111×(222+(6×333(tan(3)(55×(9/(2000(rand(632(3.(e(111.(888). >> )(  is invalid operator
+ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.(2121(asin(2)(.2(×(111×(222+(6×333(tan(3)(55×(9/(2000(rand(632(3.(e(111.(888). >> )(  is invalid operator
+ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963.(2121(asin(2.2(×(111×(222+(6×333(tan(3)(55×(9/(2000(rand(632(3.(e(111.(888). >> 333(  is invalid input
+ζ.ζ(00.(999.(555(.(1111.(χ(1212( >> java.lang.NumberFormatException: For input string: "ζ.ζ(00.(999.(555"
+ψ(ω.φ(∛(((987.(987.(963).(2121(asin(2.2(×(111×(222+(6×333(tan(3)(55×(9/(2000(rand(632(3.(e(111.(888). >> 333(  is invalid input
+// macro play delay, same as interval444×9×9×123/321¹ᐟ²⁽-32+12×123456789×987654321rand(rand(
+Solver.Enter999.555.1111987.963.2121123456789ζζ00
+.999.555.1111((987.9
+87.963.2121ζζ00.999.555.1111.χψωφ999.555.1111987.963.2121
+java.lang.Number123456789
